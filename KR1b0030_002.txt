@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書通考
-#+DATE: 2015-09-23 09:36:07
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:02:45.567500
+#+PROPERTY: ID KR1b0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1b0030_WYG_002-1a>¶
 　¶
 　尚書通考卷二　　　　　元　黄鎮成　撰¶
@@ -848,4 +850,3 @@
 　¶
 　¶
 　尚書通考卷二¶
-
